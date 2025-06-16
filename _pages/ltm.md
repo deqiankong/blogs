@@ -21,8 +21,37 @@ authors:
       name: UCLA
   - name: Minglu Zhao
     url: "https://mingluzhao.github.io/"
+    affiliations:
+      name: UCLA
   - name: Dehong Xu
     url: "https://dehongxu.github.io/"
+    affiliations:
+      name: UCLA
+  - name: Bo Pang
+    affiliations:
+      name: Salesforce Research
+  - name: Shu Wang
+    affiliations:
+      name: UCLA    
+  - name: Edouardo Honig
+    affiliations:
+      name: UCLA 
+  - name: Zhangzhang Si
+    affiliations:
+      name: KUNGFU.AI
+  - name: Chuan Li
+    affiliations:
+      name: Lambda, Inc 
+  - name: Jianwen Xie
+    affiliations:
+      name: Lambda, Inc 
+  - name: Sirui Xie
+    affiliations:
+      name: UCLA      
+  - name: Ying Nian Wu
+    url: "http://www.stat.ucla.edu/~ywu/"
+    affiliations:
+      name: UCLA   
 
 # must be the exact same name as your blogpost
 bibliography: ltm.bib  
