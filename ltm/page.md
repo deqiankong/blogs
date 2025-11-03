@@ -91,7 +91,7 @@ links:
   #   url: "https://openreview.net/forum?id=dsBjxI6l8W"
   #   icon: "comments"
   - label: "Code (GitHub)"
-    url: https://github.com/mingluzhao/Latent-Thought-Language-Models
+    url: "https://github.com/mingluzhao/Latent-Thought-Language-Models"
     icon: "code"
 
 # ---------- Optional SEO / social ----------
